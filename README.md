@@ -1,5 +1,5 @@
 # My Git Todo List
 
 - Clean the stove
-- Make supper
+- Make Bed
 - Write next chapter in my book
